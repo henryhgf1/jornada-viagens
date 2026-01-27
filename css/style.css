@@ -1,6 +1,4 @@
-/*Backgroud
-Botoes
-Cores de textos */
+
 
 :root { 
     --background-primary-color: #ffffff;
@@ -20,6 +18,3 @@ body, img, h1, p, fieldset, legend, label, input, select, textarea, button {
     box-sizing: border-box;
 }
 
-h1 { 
-    color: var(--button-primary-color);
-}
